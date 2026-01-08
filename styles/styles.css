@@ -30,3 +30,36 @@ ul a{
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
 }
+
+#banner{
+    max-width: 1600px;
+    height: 674px;
+    /* background-color: blue; */
+    background-image: url(../images/hero-bg.png);
+    background-repeat: no-repeat;
+    
+
+}
+
+.banner-info{
+    width: 229px;
+    height: 35px;
+    background-color: #ffffff;
+    border-radius: 1000px;
+    padding: 8px 12px;
+    position: center;
+}
+
+.banner-info p{
+    color: #30B868;
+    text-align: center;
+    margin: 8px 12px 8px 34px;
+}
+
+.heading-info{
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 84px;
+    text-align: center;
+    margin-top: 167px;
+}

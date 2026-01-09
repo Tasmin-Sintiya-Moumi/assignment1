@@ -83,6 +83,11 @@ ul a{
     /* margin-bottom: 20px; */
 }
 
+/* .early span{
+    font-size: 30px;
+    
+} */
+
 .heading h1{
     font-size: 72px;
     font-weight: 700;
@@ -196,7 +201,7 @@ ul a{
     align-items: center;
     gap: 40px;
     height: 840px;
-    margin: 120px;
+    /* margin: 120px; */
 }
 
 .image{
@@ -285,6 +290,7 @@ ul a{
     font-weight: 500;
     margin-bottom: 16px;
 }
+
 
 .icons{
     color: #000000;
